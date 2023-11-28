@@ -1,0 +1,4 @@
+name: Awesome ChatGPT Prompts
+title: ChatGPT Prompts Collection
+description: A curated collection of prompts for ChatGPT, covering various topics and scenarios.
+version: 1.0
